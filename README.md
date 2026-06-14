@@ -114,11 +114,11 @@ This dashboard helps answer key business questions such as:
 
 # 📷 Dashboard Preview
 
-*Page1.png
-*Page2.png
-*Page3.png
-*Page4.png
-*Page5.png
+![Page1](Page1.png)
+![Page2](Page2.png)
+![Page3](Page3.png)
+![Page4](Page4.png)
+![Page5](Page5.png)
 
 ---
 
